@@ -8,7 +8,6 @@
     "start": "node backend/app.js"
   },
   "author": "Kumar Shivam",
-  "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
